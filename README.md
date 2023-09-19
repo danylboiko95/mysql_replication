@@ -1,5 +1,7 @@
 # mysql_replication
 
+## to read
+https://github.com/vbabak/docker-mysql-master-slave
 
 ### Create table MASTER
 
